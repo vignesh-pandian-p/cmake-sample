@@ -1,0 +1,3 @@
+/media/vicky/Vicky/learning/CPP/cmake/CMakeFiles/sample.dir
+/media/vicky/Vicky/learning/CPP/cmake/CMakeFiles/edit_cache.dir
+/media/vicky/Vicky/learning/CPP/cmake/CMakeFiles/rebuild_cache.dir
